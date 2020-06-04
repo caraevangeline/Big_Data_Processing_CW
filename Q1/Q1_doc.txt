@@ -1,0 +1,69 @@
+Submitted application application_1574975221160_2701
+  The url to track the job: http://andromeda.student.eecs.qmul.ac.uk:8088/proxy/application_1574975221160_2701/
+  Running job: job_1574975221160_2701
+  Job job_1574975221160_2701 running in uber mode : false
+Job job_1574975221160_2701 completed successfully
+  Output directory: hdfs:///user/cecm3/out3
+Counters: 55
+	File Input Format Counters 
+		Bytes Read=1348852922
+	File Output Format Counters 
+		Bytes Written=1031
+	File System Counters
+		FILE: Number of bytes read=23726833
+		FILE: Number of bytes written=55326968
+		FILE: Number of large read operations=0
+		FILE: Number of read operations=0
+		FILE: Number of write operations=0
+		HDFS: Number of bytes read=1348858532
+		HDFS: Number of bytes read erasure-coded=0
+		HDFS: Number of bytes written=1031
+		HDFS: Number of large read operations=0
+		HDFS: Number of read operations=109
+		HDFS: Number of write operations=4
+	Job Counters 
+		Data-local map tasks=30
+		Launched map tasks=33
+		Launched reduce tasks=2
+		Rack-local map tasks=3
+		Total megabyte-milliseconds taken by all map tasks=1387468800
+		Total megabyte-milliseconds taken by all reduce tasks=269071360
+		Total time spent by all map tasks (ms)=270990
+		Total time spent by all maps in occupied slots (ms)=1354950
+		Total time spent by all reduce tasks (ms)=52553
+		Total time spent by all reduces in occupied slots (ms)=262765
+		Total vcore-milliseconds taken by all map tasks=270990
+		Total vcore-milliseconds taken by all reduce tasks=52553
+	Map-Reduce Framework
+		CPU time spent (ms)=132640
+		Combine input records=0
+		Combine output records=0
+		Failed Shuffles=0
+		GC time elapsed (ms)=2827
+		Input split bytes=5610
+		Map input records=8060633
+		Map output bytes=127806716
+		Map output materialized bytes=23729778
+		Map output records=8060600
+		Merged Map outputs=66
+		Peak Map Physical memory (bytes)=633569280
+		Peak Map Virtual memory (bytes)=2739605504
+		Peak Reduce Physical memory (bytes)=465760256
+		Peak Reduce Virtual memory (bytes)=2983460864
+		Physical memory (bytes) snapshot=20703928320
+		Reduce input groups=49
+		Reduce input records=8060600
+		Reduce output records=49
+		Reduce shuffle bytes=23729778
+		Shuffled Maps =66
+		Spilled Records=16121200
+		Total committed heap usage (bytes)=21800943616
+		Virtual memory (bytes) snapshot=95646560256
+	Shuffle Errors
+		BAD_ID=0
+		CONNECTION=0
+		IO_ERROR=0
+		WRONG_LENGTH=0
+		WRONG_MAP=0
+		WRONG_REDUCE=0
+
